@@ -1,10 +1,10 @@
 <p align="center">
-  <img src=".github/startrail.svg" width="300" style="margin: 50px" />
+  <img src=".github/startrail.png" width="300" style="margin: 50px" />
 </p>
 
 # VSCode Startrail
 
-![https://img.shields.io/github/issues/gantoreno/vscode-startrail](https://img.shields.io/github/issues/gantoreno/vscode-startrail) ![https://img.shields.io/github/forks/gantoreno/vscode-startrail](https://img.shields.io/github/forks/gantoreno/vscode-startrail) ![https://img.shields.io/github/stars/gantoreno/vscode-startrail](https://img.shields.io/github/stars/gantoreno/vscode-startrail) ![https://img.shields.io/github/license/gantoreno/vscode-startrail](https://img.shields.io/github/license/gantoreno/vscode-startrail) ![https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)
+![https://img.shields.io/github/issues/gantoreno/vscode-startrail](https://img.shields.io/github/issues/gantoreno/vscode-startrail) ![https://img.shields.io/github/forks/gantoreno/vscode-startrail](https://img.shields.io/github/forks/gantoreno/vscode-startrail) ![https://img.shields.io/github/stars/gantoreno/vscode-startrail](https://img.shields.io/github/stars/gantoreno/vscode-startrail) ![https://img.shields.io/github/license/gantoreno/vscode-startrail](https://img.shields.io/github/license/gantoreno/vscode-startrail)
 
 A colorscheme from the stars, now available for Microsoft's [Visual Studio Code](https://code.visualstudio.com/), brought to you as a port of the [original Startrail colorscheme](https://github.com.gantoreno/vim-startrail) from the Vim editor.
 
