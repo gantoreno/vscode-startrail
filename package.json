@@ -1,0 +1,37 @@
+{
+  "name": "startrail",
+  "displayName": "Startrail",
+  "description": "A colorscheme from the stars",
+  "publisher": "Gabriel Moreno",
+  "version": "0.1.0",
+  "license": "GPLV3",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gantoreno/vscode-startrail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gantoreno/vscode-startrail/issues",
+    "email": "gantoreno@gmail.com"
+  },
+  "keywords": [
+    "theme",
+    "startrail",
+    "stars"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Startrail",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Startrail-color-theme.json"
+      }
+    ]
+  }
+}
