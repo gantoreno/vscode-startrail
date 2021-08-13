@@ -8,9 +8,7 @@
   "engines": {
     "vscode": "^1.59.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "repository": {
     "type": "git",
     "url": "https://github.com/gantoreno/vscode-startrail.git"
@@ -19,11 +17,7 @@
     "url": "https://github.com/gantoreno/vscode-startrail/issues",
     "email": "gantoreno@gmail.com"
   },
-  "keywords": [
-    "theme",
-    "startrail",
-    "stars"
-  ],
+  "keywords": ["theme", "startrail", "stars"],
   "icon": "assets/icon.png",
   "contributes": {
     "themes": [
@@ -33,5 +27,10 @@
         "path": "./themes/Startrail-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "7ea6ab1a-24e3-4dac-947f-88d0dc17c363",
+    "publisherDisplayName": "Gabriel Moreno",
+    "publisherId": "0df2ff41-99a9-4a9e-81b4-2fee8ec32012"
   }
 }
