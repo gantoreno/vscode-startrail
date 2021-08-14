@@ -24,4 +24,4 @@ Then, go to `Preferences > Color Theme > Startrail`, and select it from the drop
 
 ## License
 
-Licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) license.
+Licensed under the [ISC](https://opensource.org/licenses/ISC) license.
