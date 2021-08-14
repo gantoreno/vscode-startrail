@@ -3,7 +3,7 @@
   "displayName": "Startrail",
   "description": "A colorscheme from the stars, now on Visual Studio Code",
   "publisher": "gantoreno",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "GPLV3",
   "engines": {
     "vscode": "^1.59.0"
